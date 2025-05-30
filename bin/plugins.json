@@ -1,0 +1,8 @@
+{
+    "ChatBot": {
+        "enabled": true
+    },
+    "Economy": {
+        "enabled": true
+    }
+}
